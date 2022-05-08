@@ -1,1 +1,1 @@
-# GMM
+# GMM in clustering

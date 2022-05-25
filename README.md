@@ -1,1 +1,1 @@
-# GMM in clustering
+# GMM EM algorithm
